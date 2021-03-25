@@ -5,6 +5,13 @@
 * Option to get the output
     1. Default - Display on Console
     2. CSV - To get the output in a CSV file
+* Requires python > 3.3
+
+## Installation
+
+<pre>
+pip install git+https://github.com/adithyakeshav/python_cli.git
+</pre>
     
 ### snum 
 
