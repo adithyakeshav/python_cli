@@ -1,0 +1,7 @@
+.idea
+myenv/
+*.iml
+PythonCli.egg-info/
+*.csv
+get_serial_numbers/__pycache__
+__pycache__/
